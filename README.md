@@ -6,10 +6,10 @@ Students will create a platform where users can share and browse recipes. Each r
 
 ## Key Concepts
 
-Frontend: HTML, CSS, JavaScript.
-Backend: Node.js with Express.
-Database: MySQL or SQLite to store recipes.
-Git/GitHub: Collaborative feature development.
+- Frontend: HTML, CSS, JavaScript.
+- Backend: Node.js with Express.
+- Database: MySQL or SQLite to store recipes.
+- Git/GitHub: Collaborative feature development.
 
 ## Features
 
@@ -28,6 +28,6 @@ one member will create the repository the others will fork
 
 ## Team members
 
-Mike Jun Yang Chiu Lim
-Sarah Caron-Dadoun
-Hazel Clarisse Connolly
+- Mike Jun Yang Chiu Lim
+- Sarah Caron-Dadoun
+- Hazel Clarisse Connolly
